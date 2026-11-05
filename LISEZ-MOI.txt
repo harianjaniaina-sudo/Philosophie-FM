@@ -1,0 +1,20 @@
+PHILO CLASS — VERSION FINALE 1.0
+Terminale A — ancien système scolaire malgache
+
+CONTENU
+- 14 chapitres couvrant les cinq grandes parties du programme fourni dans le projet.
+- Fiches structurées : objectifs, prérequis, problématique, définitions FR/MG, développement, auteurs et repères bibliographiques, exemples, résumé, activités, évaluations et corrigés.
+- Dictionnaire bilingue de 30 notions.
+- Méthodologie : dissertation, explication de texte, argumentation.
+- Quiz de révision avec correction.
+- Notes personnelles sauvegardées localement.
+- Interface adaptée aux téléphones et ordinateurs.
+
+OUVRIR
+1. Extraire le fichier ZIP.
+2. Ouvrir index.html avec Chrome, Firefox ou un navigateur moderne.
+3. Les fonctions de base marchent hors ligne après extraction locale.
+4. Pour installer comme application PWA et bénéficier du cache hors ligne, héberger les fichiers sur un site HTTPS puis choisir « Installer l'application » dans Chrome.
+
+IMPORTANT — VALIDATION PÉDAGOGIQUE
+Cette version couvre les 14 intitulés du programme de travail repris dans le projet. Les fiches sont des cours de base structurés, et non une garantie de conformité à un manuel officiel ou aux consignes locales d'examen. Les références indiquent des œuvres et repères de lecture ; les formulations de citations directes ont volontairement été évitées lorsqu'une traduction ou une édition peut varier. Vérifier les passages dans l'édition effectivement utilisée. Les équivalents malgaches sont pédagogiques et peuvent être harmonisés avec les usages locaux.
